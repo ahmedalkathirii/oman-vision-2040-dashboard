@@ -1,7 +1,5 @@
 # ============================================================
 # Oman Vision 2040 – GCC Index Dashboard
-# INFS 4475 Group Project
-# UPDATED VERSION for the new Excel sheets
 # ============================================================
 
 library(shiny)
